@@ -6,11 +6,11 @@ This work focuses on advanced topics in Network Security especially in Intrusion
 
 🛡️ An Enhanced Intrusion Detection Model with FeedForward Neural Network Classifier
 
-📍 Conference**: The 27th International Conference on Advanced Communications Technology (ICACT 2025)  
-🏆 Award**: Best Paper Award  
-📅 Date**: 2025  
-📄 Authors**: Asadov Amirjon*, Mrityunjoy Gain**, Keon Oh Kim*, Choong Seon Hong*  
-🏫 Affiliations**: Department of Computer Science and Engineering / Artificial Intelligence, Kyung Hee University, South Korea
+📍 Conference: The 27th International Conference on Advanced Communications Technology (ICACT 2025)  
+🏆 Award: Best Paper Award  
+📅 Date: 2025  
+📄 Authors: Asadov Amirjon*, Mrityunjoy Gain**, Keon Oh Kim*, Choong Seon Hong*  
+🏫 Affiliations: Department of Computer Science and Engineering / Artificial Intelligence, Kyung Hee University, South Korea
 
 📘 Abstract
  A major obstacle in the face of increasingly complex cyberattacks is network security. Proactive security measures require effective intrusion detection systems (IDS)
